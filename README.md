@@ -36,6 +36,8 @@ This project is the final submission for CASA0014 (Connected Environments) in th
 Also known as the Polka dot Begonia, or Spotted Begonia, this plant can be identified by its large angel wing-shaped leaves patterned with
 polka dots on top and a deep purple-red on the bottom side.
 
+<img src="https://user-images.githubusercontent.com/33913141/235490534-1ac8a492-f45f-4fe0-ba9d-630bc8cc0d6c.jpg" style="width:350px"/>
+
 **Care Instructions**
 - A mixture of peat and another substrate forms a good growing mixture
 - Needs bright, indirect sunlight - must be kept out of direct afternoon sun
