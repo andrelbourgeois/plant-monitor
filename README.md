@@ -7,17 +7,13 @@ This project is the final submission for CASA0014 (Connected Environments) in th
 - [Features](#features)
 - [Built With](#built-with)
 - [My Plant](#my-plant)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [FAQ](#faq)
-- links to files with data or other resources
 
 ## Features
-- 
+- Temperature detection
+- Humidity detection
+- Soil moisture level detection
+- Publish of data to MQTT
 
 ## Built With
 - Standard Feather Huzzah ESP8266
@@ -50,6 +46,9 @@ polka dots on top and a deep purple-red on the bottom side.
 
 **Things to Keep in Mind**
 - Different plants may require different kinds of care
+
+## License
+This project is licensed under the MIT License.
 
 <!--
 
