@@ -1,29 +1,27 @@
-# Plant Monitor
-Second workshop for CASA0014 - 2 - Plant Monitor
+# PLANT-MONITOR
+This project details the development of an IoT system designed to monitor the health of a house plant and transmit data - temperature, humidity level, and soil moisture level - to an MQTT server. This data will help an owner determine their plant's needs and help them keep their plant in good health.
 
-By André Bourgeois
+This project is the final submission for CASA0014 (Connected Environments) in the MSc in Connected Environments at UCL's Bartlett Centre for Advanced Spatial Analysis.
 
-# Description
-The intent of this project is to create a Plant Monitor that can transmit data (temperature, humidity level, and soil moisture) to an MQTT server.
-This data will allow me to determine what my plant needs to stay healthy, so I can keep it alive for the remainder of the year. This folder contains both the final sketch
-and test sketches that have gone into building this project, and it is currently a work in progress.
+## Project Directory
+- [Features](#features)
+- [Built With](#built-with)
+- [My Plant](#my-plant)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [FAQ](#faq)
+- links to files with data or other resources
 
-# Current To Do List
-- Install Influx DB on RPI
-- Collect and store soil data
-- Visualize data on Grafana
-- View soil data
-- Add pictures to readme.md
-- Add more comments to code after understanding what the code does
-- Add step-by-step process to the readme.md (include steps and test from workshops)
-- Reorganize project into a UCL Github repository
+## Features
+- 
 
-# Materials
-- Soldering Machine
+## Built With
 - Standard Feather Huzzah ESP8266
-- USB Cable
 - Custom CASA Huzzah ESP8266
-- Raspberry Pi (with SD card, SD card reader + case for aesthetics)
 - DHT22 Temperature/Humidity Sensor
 - 10k Resistor x2
 - 1k Resistor x2
@@ -31,9 +29,12 @@ and test sketches that have gone into building this project, and it is currently
 - Transistor
 - 30cm Length of Wire x2
 - 6cm Hardware Nail x2
+- Soldering Machine
+- Raspberry Pi (with SD card, SD card reader + case for aesthetics)
+- USB Cable
 - Potted Plant
 
-# My Plant
+## My Plant
 **Begonia Maculata**
 
 Also known as the Polka dot Begonia, or Spotted Begonia, this plant can be identified by its large angel wing-shaped leaves patterned with
@@ -50,8 +51,7 @@ polka dots on top and a deep purple-red on the bottom side.
 **Things to Keep in Mind**
 - Different plants may require different kinds of care
 
-# The Process
-**Step 1:**
+<!--
 
 # Things That Made This Project Easier for Me
 **Using Atom IDE + Github Desktop Git Client**
@@ -84,3 +84,15 @@ in allowing me to understand the code better.
 - Build the read.me throughout the project
 - Take more pictures
 - Read ahead so I can spend more time on things I'm struggling with
+
+# Current To Do List
+- Install Influx DB on RPI
+- Collect and store soil data
+- Visualize data on Grafana
+- View soil data
+- Add pictures to readme.md
+- Add more comments to code after understanding what the code does
+- Add step-by-step process to the readme.md (include steps and test from workshops)
+- Reorganize project into a UCL Github repository
+
+ -->
